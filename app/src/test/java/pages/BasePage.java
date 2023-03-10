@@ -19,7 +19,7 @@ public class BasePage {
   static {
     // System.setProperty("webdriver.chrome.driver", "C:\\Users\\MIGUEL\\Desktop\\curso\\chromedriver\\chromedriver.exe" );
     //System.setProperty("webdriver.chrome.driver", "C:\\chromedriver\\chromedriver.exe" );
-    System.setProperty("webdriver.chrome.driver", "/home/miguel/driver/chromedriver");
+    //System.setProperty("webdriver.chrome.driver", "/home/miguel/driver/chromedriver");
   
     //* Aqui estamos creando el driver una sola vez para todas las instancias */
     ChromeOptions chromeOptions = new ChromeOptions();

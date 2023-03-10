@@ -1,4 +1,4 @@
-@Test
+## @Test
 Feature: Upload a file
 
 Scenario: As a Test Enginner, I want to test this functionality
